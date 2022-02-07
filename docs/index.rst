@@ -3,17 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to sphinx-doxy-trial's documentation!
+Sphinx-doxy-trial Main Page
 =============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+.. doxygenclass:: Nutshell
+    :project: nutshell
+    :members:
 
 
-Indices and tables
-==================
+
+Indices and tables - I edited this!
+===================================
 
 * :ref:`genindex`
 * :ref:`modindex`
